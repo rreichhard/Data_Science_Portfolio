@@ -40,6 +40,11 @@ The final accuracy score after training the Logistic Regression classifier was 8
 - Consider adjusting target variable to be binary as currently it is an ordinal integer 0-10
 
 
+## Support and Feedback
+
+For support or to provide feedback, email robert.reichhard@gmail.com
+
+
 ## Acknowledgements
 
  - Thank you to Bellevue University and Professor Williams for your feedback and instructions
