@@ -30,6 +30,11 @@ These results can be seen in visualizations in the powerpoint file "Reichhard_Sl
 - Calculate distance between Usage & AHI by day
 
 
+## Support and Feedback
+
+For support or to provide feedback, email robert.reichhard@gmail.com
+
+
 ## Acknowledgements
 
  - Thank you to Bellevue University and Professor Williams for your feedback and instructions. Also to ResMed for the CPAP supplies and my manager Andy for constantly encouraging me.
