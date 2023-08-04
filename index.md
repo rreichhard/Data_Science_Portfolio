@@ -2,27 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [NFL All-Pro Logistic Regression](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/NFL%20All-Pro%20Logistic%20Regression/)
+- [CPAP Therapy Exploratory Data Analysis](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/CPAP%20Therapy%20EDA/)
+- [Avatar: The Last Airbender NLP Analysis](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/Avatar%20Dialog%20NLP%20Analysis/)
+- [Airline Travel Graphic](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/Airline%20Travel%20Graphic/)
+- [Diabetes Random Forest Prediction](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/Diabetes%20Random%20Forest%20Prediction/)
+- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
