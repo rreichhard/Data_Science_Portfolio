@@ -1,15 +1,16 @@
-title: Robert J. Reichhard # your name (or website title) here
+title: <fontsize="+2"><b>Robert J. Reichhard</b></font> # your name (or website title) here
 logo: "RJ.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <b>Data Diva, Tableau Enthusiast, & Husband</b>
+  <br><br>
+  Education:
   M.S. Data Science
   M.A.Ed. Educational Administration
   B.S.Ed. Physical Education & School Health, minor in History
-  <br><br>
-  Data Scientist, Data Diva
   <br><br>
   <a href="https://www.linkedin.com/in/robert-reichhard-b5b576182">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
