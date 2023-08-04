@@ -1,4 +1,4 @@
-title: <fontsize="+2"><b>Robert J. Reichhard</b></font> # your name (or website title) here
+title: <font size="+2"><b>Robert J. Reichhard</b></font> # your name (or website title) here
 logo: "RJ.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b>Data Diva, Tableau Enthusiast, & Husband</b>
@@ -6,7 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <b>Education:</b>
   <br><br>
   M.S. Data Science
+  <br><br>
   M.A.Ed. Educational Administration
+  <br><br>
   B.S.Ed. Physical Education & School Health, minor in History
   <br><br>
   <a href="https://www.linkedin.com/in/robert-reichhard-b5b576182">View My LinkedIn Profile</a> 
