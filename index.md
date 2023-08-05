@@ -24,7 +24,7 @@
 
 ---
 
-### About Me
+### About Me/My Data Journey
 
 #### My data journey began as I'm sure many do, in an unrelated field. My post-secondary education is in teaching & educational administration. I taught Physical Education at the elementary & middle/junior high school levels as well as coached football and track & field. I greatly enjoyed teaching and the students were wonderful. Unfortunately, the public education industry in Arizona is rather unreliable and I found myself without a multi-year contract or continuing healthcare coverage year after year. 
 
