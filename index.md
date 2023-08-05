@@ -28,6 +28,8 @@
 
 #### __Email:__ Robert.Reichhard@gmail.com
 
+#### LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/robert-reichhard-b5b576182)
+
 #### __Location:__ Chandler, Arizona
 
 ---
