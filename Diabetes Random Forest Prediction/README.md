@@ -28,22 +28,9 @@ Data was obtained from the UCI Machine Learning Repository at https://archive-be
 
 ## Results and Evaluation
 
-When plotting a Rolling 30-day Average for both AHI and Usage, we see that over time the lines diverge and the distance between them increases. This is a positive result as increasing the Usage time per day is beneficial, along with AHI decreasing. 
-
-These results can be seen in visualizations in the powerpoint file "Reichhard_Sleep_Apnea.pptx".
-## Roadmap
-
-- Periodically update the data from the phone app
-
-- Calculate distance between Usage & AHI by day
-
+The predictive model had an accuracy of 99.23% with only one false positive and zero false negatives. It was found that polyuria and polydipsia were the most important features for generating a prediction of diabetes.
 
 ## Support and Feedback
 
 For support or to provide feedback, email robert.reichhard@gmail.com
-
-
-## Acknowledgements
-
- - Thank you to Bellevue University and Professor Williams for your feedback and instructions. Also to ResMed for the CPAP supplies and my manager Andy for constantly encouraging me.
 
