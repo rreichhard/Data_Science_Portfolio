@@ -7,25 +7,18 @@ This project was a voluntary activity at work for fun. As is listed in the "Rule
 Necessary libraries
 
 ```bash
-import LightFM
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import itertools
-from lightfm import LightFM
-from lightfm.cross_validation import random_train_test_split
-from lightfm.data import Dataset
-from lightfm.evaluation import precision_at_k
-from lightfm.evaluation import auc_score
-import requests,json,csv,os
+library(ggimage)
+library(ggplot2)
+library(readxl)
+library(QuantPsyc)
 ```
     
 ## Data Sources
 
-Data was obtained from the MovieLens site at https://doi.org/10.1145/2827872. There are four CSVs available for download there, I utilized three of them (ratings, movies, and links). You will also need to sign up for the public API through The MovieDatabase at https://www.themoviedb.org/. The key is free as long as you are using it for public/personal use and not commercial. It is also worth noting that the providers portion of the API utilizes the JustWatch database and must be attributed.
+Data was obtained from my manager at work, so I am uncertain of the exact repository he had gotten it from. The movie information is fairly generic and not obtain via private API.
 
 
 ## Results and Evaluation
 
-It was fo
+The scatterplot I generated showed the relationship between film runtime and revenue. Only five films showed as having a gross revenue over $2B. Two of those five films had a runtime over 150 minutes. It was interesting to see outliers such as Lord of the Rings Return of the King being the longest runtime film in the dataset, but also one of the lower revenue generators at less than $1.25B.
 
