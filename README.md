@@ -1,8 +1,9 @@
-## Developer Portfolio Landing Page Template
+## Data Science Portfolio
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Welcome to my Data Science Portfolio page. I am so glad you found me! My name is Robert, but I typically go by *R.J.* I am currently a Business Performance Analyst for an online payment broker. While I am fortunate to be able to work in the data realm, my goal is to increase my footprint and responsibilities. That is where the Data Science M.S. program with Bellevue University stepped in.
+I have learned a great deal in this program and am excited to share with you the projects I have completed.
 
 <img src="images/demo.gif?raw=true"/>
 
