@@ -1,7 +1,7 @@
 
 # Diabetes Prediction through Random Forest
 
-This project takes my own personal medical data from my CPAP machine prescribed by my physician. The general recommendation for minimum use each night is 4 hours. I found this minimum threshold to be overly difficult to achieve for many reasons. As I struggled with complying with this recommendation, I wanted to compare usage with AHI. AHI, or Apnea-Hypopnea Index, is basically a calculation of breathing issues per hour of sleep.
+This project takes anonymized medical data related to diabetes and attempts to predict who may become diabetic based on other factors. 
 ## Installation
 
 Necessary libraries
