@@ -34,6 +34,8 @@ I have learned a great deal in this program and am excited to share with you the
 
 Each of these projects has a README.md file that will outline the necessary libraries for each file. Data sources are housed in the "DATA" folder of this repository unless stated otherwise.
 
+Some of these projects were completed as coursework through Bellevue University. Others were completed as voluntary "data challenges" in light-hearted competition with my coworkers. These challenge-projects aimed to be a low stakes way of letting the analysts stretch our metaphorical wings and try something new. 
+
 ---
 
 ### Contact Me
@@ -42,4 +44,4 @@ Each of these projects has a README.md file that will outline the necessary libr
 
 #### LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/robert-reichhard-b5b576182)
 
-#### __Location:__ Chandler, Arizona
+#### __Location:__ Arizona
