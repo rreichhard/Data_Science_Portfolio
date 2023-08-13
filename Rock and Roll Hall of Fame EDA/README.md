@@ -1,7 +1,7 @@
 
 # Rock and Roll Hall of Fame Exploration
 
-This project was an exercise in webscraping, data cleaning/transformation, and visualization.
+This project was an exercise in webscraping, data cleaning/transformation, and visualization. There are multiple Jupyter files in this project. Each one takes an original dataset, cleans/transforms it, and saves it for use in the next file. Original datasets can be found in the "DATA" folder of this repository or in the Data Sources section below.
 
 ## Installation
 
@@ -30,14 +30,7 @@ Musical track data was originally obtained from Kaggle at https://www.kaggle.com
 
 ## Results and Evaluation
 
-I utilized a 75/25 training/testing split from the original dataset. In the data there are eight (8) independent performance from the NFL Combine. These include strength tests, agility tests, and speed tests. This is in additional to listing each prospect's height, weight, football position, and NCAA college program.
-
-The final accuracy score after training the Logistic Regression classifier was 88.8%. 
-## Roadmap
-
-- Account for Multicollinearity
-
-- Consider adjusting target variable to be binary as currently it is an ordinal integer 0-10
+Looking at the word-cloud generated from the lyrics of the inductee's songs, the words "baby", "right", "got", "now", and "yeah" were the most often used. It was also found that songs labeled as "excplicit" were almost 10 points more popular on average than non-explicit songs. Smokey Robinson inducted the most number of inductees to the Hall of Fame at 7.
 
 
 ## Support and Feedback
@@ -47,5 +40,5 @@ For support or to provide feedback, email robert.reichhard@gmail.com
 
 ## Acknowledgements
 
- - Thank you to Bellevue University and Professor Williams for your feedback and instructions
+ - Thank you to Wikipedia for having the data and to Kaggle for having amazing datasets.
 
