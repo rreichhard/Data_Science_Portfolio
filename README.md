@@ -5,48 +5,25 @@
 Welcome to my Data Science Portfolio page. I am so glad you found me! My name is Robert, but I typically go by *R.J.* I am currently a Business Performance Analyst for an online payment broker. While I am fortunate to be able to work in the data realm, my goal is to increase my footprint and responsibilities. That is where the Data Science M.S. program with Bellevue University stepped in.
 I have learned a great deal in this program and am excited to share with you the projects I have completed.
 
-<img src="images/demo.gif?raw=true"/>
+### Projects
 
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+- [NFL All-Pro Logistic Regression](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/NFL%20All-Pro%20Logistic%20Regression/)
+  + Logistic Regression analysis of potential NFL player performance in the Combine.  
+- [CPAP Therapy Exploratory Data Analysis](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/CPAP%20Therapy%20EDA/)
+  + Exploratory Analysis of my own personal medical data regarding sleep apnea and CPAP therapy.  
+- [Avatar: The Last Airbender NLP Analysis](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/Avatar%20Dialog%20NLP%20Analysis/)
+  + Natural Language Processing activity using data from the television show ATLA.  
+- [Airline Travel Graphic](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/Airline%20Travel%20Graphic/)
+  + Exercise in data gathering, visualizing, and communicating to executive level stakeholders regarding airline travel safety.  
+- [Diabetes Random Forest Prediction](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/Diabetes%20Random%20Forest%20Prediction/)
+  + Decision Tree and Random Forest modeling of anonymized medical data regarding diabetes.  
+- [Mary Shelley's Frankenstein Text Generation LSTM](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/LSTM%20Text%20Generation%20Frankenstein/)
+  + Long-Short Term Memory modeling to generate "new" text using the infamous novel Frankenstein as the seed-text.  
+- [Movie Recommender System](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/Movie%20Recommender%20Hybrid/)  
+  + Hybrid Recommender system using the MovieLens 100k dataset. This is a hybrid style incorporating both content and collaborative filtering.  
+- [Movie Revenue Exploratory Analysis](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/Movie%20Revenue%20Analysis/)
+  + Visualization exercise using international film revenue and runtime data.  
+- [Rock N' Roll Hall of Fame Exploratory Analysis](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/Rock%20and%20Roll%20Hall%20of%20Fame%20EDA/)
+  + This project focused on data cleaning/wrangling, webscraping, API use, and exploratory analysis of Rock and Roll Hall of Fame data.  
+- [Tweet Sentiment Analysis & Source Prediction](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/Tweet%20Sentiment%20Analysis%20and%20Source%20Prediction/)
+  + A project focused on scraping tweets aimed at specific companies and then analyzing the sentiment of those tweets.
