@@ -27,3 +27,19 @@ I have learned a great deal in this program and am excited to share with you the
   + This project focused on data cleaning/wrangling, webscraping, API use, and exploratory analysis of Rock and Roll Hall of Fame data.  
 - [Tweet Sentiment Analysis & Source Prediction](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/Tweet%20Sentiment%20Analysis%20and%20Source%20Prediction/)
   + A project focused on scraping tweets aimed at specific companies and then analyzing the sentiment of those tweets.
+
+---
+
+### How to Use
+
+Each of these projects has a README.md file that will outline the necessary libraries for each file. Data sources are housed in the "DATA" folder of this repository unless stated otherwise.
+
+---
+
+### Contact Me
+
+#### __Email:__ Robert.Reichhard@gmail.com
+
+#### LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/robert-reichhard-b5b576182)
+
+#### __Location:__ Chandler, Arizona
