@@ -58,7 +58,7 @@
 
 #### LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/robert-reichhard-b5b576182)
 
-#### __Location:__ Chandler, Arizona
+#### __Location:__ Phoenix Metropolitan Area, Arizona
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
