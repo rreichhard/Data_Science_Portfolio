@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Welcome to my Data Science Portfolio page. I am so glad you found me! My name is Robert, but I typically go by *R.J.* I am currently a Business Performance Analyst for an online payment broker. While I am fortunate to be able to work in the data realm, my goal is to increase my footprint and responsibilities. That is where the Data Science M.S. program with Bellevue University stepped in.
+Welcome to my Data Science Portfolio page. I am so glad you found me! My name is Robert, but I typically go by *R.J.* I am currently a PowerBI Developer for a construction commissioning company and have worked previously as a Business Performance Analyst for an online payment broker. While I am fortunate to be able to work in the data realm, my goal is to increase my footprint and responsibilities. That is where the Data Science M.S. program with Bellevue University stepped in.
 I have learned a great deal in this program and am excited to share with you the projects I have completed.
 
 ### Projects
