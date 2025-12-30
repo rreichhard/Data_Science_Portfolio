@@ -9,6 +9,10 @@
 
 ---
 
+### Power BI Dashboard Example
+
+---
+
 ### Projects
 
 - [NFL All-Pro Logistic Regression](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/NFL%20All-Pro%20Logistic%20Regression/)
