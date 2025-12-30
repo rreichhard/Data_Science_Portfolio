@@ -11,7 +11,7 @@
 
 ### Power BI Dashboard Example
 
-- [CPAP/Sleep Apnea Dashboard](https://github.com/rreichhard/Data_Science_Portfolio/tree/main/cpap_dashboard/)
+- [CPAP/Sleep Apnea Dashboard](https://github.com/rreichhard/Data_Science_Portfolio/blob/ceea06733073f60cd383c68601de000ef3b8815c/cpap_dashboard.png)
   + Dashboard built using my own personal medical data regarding sleep apnea and CPAP therapy.
     
 ---
